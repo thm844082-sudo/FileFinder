@@ -17,4 +17,14 @@ File Finder helps you locate files on your computer by searching their names. If
 *  Modern PyQt6 graphical interface
 *  Custom title bar
 
-### FOR PYTHON :
+### FOR PYTHON REQUIREMENTS
+
+* needs to be Python 3+
+* # import packages :
+  * PyQt6
+  * os
+  * sys
+  * subprocess
+  * path lib
+
+  * 
