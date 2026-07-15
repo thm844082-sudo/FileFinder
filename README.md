@@ -25,6 +25,5 @@ File Finder helps you locate files on your computer by searching their names. If
   * os
   * sys
   * subprocess
-  * path lib
-
+  * pathlib
   * 
