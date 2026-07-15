@@ -20,10 +20,9 @@ File Finder helps you locate files on your computer by searching their names. If
 ### FOR PYTHON REQUIREMENTS
 
 * needs to be Python 3+
-* # import packages :
+* ## import packages :
   * PyQt6
   * os
   * sys
   * subprocess
   * pathlib
-  * 
